@@ -39,8 +39,8 @@ breakfast_restaurants = [
     "Hatch",
     "IHop",
     "Dunkin Donuts",
-    "Brownstone Coffee"
-    "Munday's"
+    "Brownstone Coffee",
+    "Munday's",
     "Tim Hortons"
 ]
 desert = ""
